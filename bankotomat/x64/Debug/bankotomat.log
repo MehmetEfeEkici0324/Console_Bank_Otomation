@@ -1,0 +1,4 @@
+﻿  bankotomat.cpp
+C:\Users\MDH\source\repos\bankotomat\bankotomat.cpp(727,26): warning C4101: 'exception': yerel değişken başvurusu kaldırıldı
+C:\Users\MDH\source\repos\bankotomat\bankotomat.cpp(1141,17): warning C4101: 'e': yerel değişken başvurusu kaldırıldı
+  bankotomat.vcxproj -> C:\Users\MDH\source\repos\bankotomat\x64\Debug\bankotomat.exe
