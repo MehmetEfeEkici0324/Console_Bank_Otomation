@@ -46,7 +46,7 @@ Bu proje, C++ programlama dili kullanılarak geliştirilmiş kapsamlı bir banka
 2.  `main.cpp` dosyasını indirin.
 3.  Terminal veya komut satırını açarak dosyayı derleyin:
     ```bash
-    g++ main.cpp -o EkiciBank
+    g++ bankotomat.cpp -o EkiciBank
     ```
 4.  Uygulamayı çalıştırın:
     ```bash
